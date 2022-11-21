@@ -17,6 +17,12 @@ Install dependences
 npm install
 ```
 
+Install react-bootstrap
+
+```
+npm install react-bootstrap bootstrap
+```
+
 Launch environment
 
 ```
