@@ -11,7 +11,7 @@ export const SoonPage = () => {
       <NavBar />
       <h2>Trabajo en proceso</h2>
       <img src={pronto} height={200} alt='logo usm' /><br />
-      <Button variant='contained'>Material UI Button</Button>
+      <Button variant='contained' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>Material UI Button</Button>
     </div>
   )
 }

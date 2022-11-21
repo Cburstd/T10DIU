@@ -16,7 +16,7 @@ export const NavItems =[
     {
         name : 'Reuniones', 
         links: [
-            { title: 'Mis Reuniones',to: "/reuniones" }, //Cambia el to para ir a donde quieras pero hay que añadirlo en el app_router
+            { title: 'Agendar reunión',to: "/formulario" }, //Cambia el to para ir a donde quieras pero hay que añadirlo en el app_router
         ],
         open: false,
     },
