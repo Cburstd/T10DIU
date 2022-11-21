@@ -7,7 +7,7 @@ import SideNav from '../components/naipes'
 export const HomePage = () => {
   return (
     <div className='page'>
-      <h1 className='page__title'>Frontend Sample App</h1>
+      <h1 className='page__title'>Hamlin Hamlin and McGill</h1>
       <NavBar />
       <h2>Página de Inicio</h2>
       <SideNav />

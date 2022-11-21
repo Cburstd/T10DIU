@@ -14,9 +14,9 @@ export const NavItems =[
         open: false,
     },
     {
-        name : 'Mis Reuniones', 
+        name : 'Reuniones', 
         links: [
-            { title: 'Sub Menu',to: "#" },
+            { title: 'Mis Reuniones',to: "/reuniones" }, //Cambia el to para ir a donde quieras pero hay que añadirlo en el app_router
         ],
         open: false,
     },
