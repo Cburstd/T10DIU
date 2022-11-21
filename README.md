@@ -1,6 +1,8 @@
 # frontend-sample-app
 Basic Frontend Development Environment to start an app with Webpack
 
+Cambios para la fila de Naipes(sidebar menu) Auspiciados por: https://www.youtube.com/watch?v=kgOgr3IRg-w
+
 This repo includes `Webpack` to start an environment to build frontend views using `React`.
 
 ### Requirements
