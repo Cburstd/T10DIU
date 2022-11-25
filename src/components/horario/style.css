@@ -1,0 +1,72 @@
+.mydivnodisp {
+    background: #f09393;
+    padding: 20px;
+    border-radius: 1px;
+    text-align: center;
+    margin: 2px;
+}
+.mydivdisp {
+    background: #bee2a6;
+    padding: 20px;
+    border-radius: 1px;
+    text-align: center;
+    margin: 2px;
+}
+
+.mydivtitle {
+    background: #6984c0;
+    padding: 20px;
+    border-radius: 2px;
+    text-align: center;
+    margin: 2px;
+}
+
+.mydivhorario {
+    background: #f1c856;
+    padding: 20px;
+    border-radius: 2px;
+    text-align: center;
+    margin: 2px;
+}
+
+.mydivhora {
+    background: #ffdd7f;
+    padding: 20px;
+    border-radius: 2px;
+    text-align: center;
+    margin: 2px;
+}
+
+.anal{
+    display:grid;
+    grid-template-columns: 0.13fr 1fr;
+}
+.mydivcontainer {
+    display: grid;
+    grid-template-columns: 0.7fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.boton{
+    margin-top: 20px;
+}
+.lista{
+    margin-top: 35px;
+    margin-left: 50px;
+}
+
+
+.columnasdobles{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+li{
+    margin-top: 10px;
+}
+.a{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.textoacta{
+    margin-left: 30px;
+    text-justify: inter-word;
+}

@@ -12,7 +12,7 @@ export const FormularioPage = () => {
                     <Form.Group as={Row} className="mb-3" controlId="fecha">
                         <Form.Label column sm="2">Fecha seleccionada</Form.Label>
                         <Col sm="10">
-                            <Form.Control plaintext readOnly defaultValue="25 de noviembre de 2022" />
+                            <Form.Control plaintext readOnly defaultValue="29 de noviembre de 2022" />
                         </Col>
                     </Form.Group>
 
@@ -40,7 +40,7 @@ export const FormularioPage = () => {
             </div>
             {/* botones */}
             <div style={formStyle}> 
-                <Button variant='danger' color='error' size='lg' href='/'>Cancelar</Button>
+                <Button variant='danger' color='error' size='lg' href='/horario'>Cancelar</Button>
                 <span>&nbsp;</span>
                 <Button variant='primary' size='lg' href='/verificacion'>Crear</Button>
             </div>
