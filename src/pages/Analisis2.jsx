@@ -8,7 +8,7 @@ import NavBar from '../components/nav_bar'
 export const AnalisisPage2 = () => {
   return (
     <div className='page'>
-      <h1 className='page__title'>Hamlin Hamlin and McGill</h1>
+      <h1 className='page__title'>Hamlin Hamlin & McGill</h1>
       <NavBar />
       <h2>Analisis de reunión</h2>
       <div className='anal'>
@@ -55,7 +55,7 @@ export const AnalisisPage2 = () => {
 
     <div><h5> <b>Acta reunión</b> </h5>
         <div className='textoacta'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Error adipisci placeat inventore voluptate sunt nisi hic obcaecati, amet minima vitae debitis in ea harum recusandae voluptates quia quaerat? At blanditiis ad ea sapiente, a reprehenderit voluptatum! Vero iusto nostrum placeat architecto assumenda rerum et! Optio modi repudiandae, deleniti et vitae perspiciatis odit dolorem maxime praesentium, facere iure, tempora repellendus. Libero harum corrupti eius doloremque earum.
+            Se realiza la revisión mensual de los proyectos en los que ha trabajado la compañía durante el último mes, separándolos en tres categorias: "Casos nuevos", "Casos en desarrollo" y "Casos resueltos". Además, se planifica la fiesta de bienvenida y el recorrido por las instalaciones para los nuevos trabajadores.
         </div>
     </div>
       <div className='boton' align= "right">

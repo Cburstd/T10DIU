@@ -3,11 +3,10 @@ import SideItem from "./SideItem"
 import { NavItems } from './datosnaipes/NavItemsData';
 
 
-const SideNav = () => {
-    
+const SideNav = () => {    
     return(
         <div style={naipestile}>
-            <h2>Soy la tormenta</h2>
+            <h2>Sistema de reuniones</h2>
             {NavItems.map((navItem, index) => {
                 return  <SideItem key={index}  items={navItem}/>;
             })} 

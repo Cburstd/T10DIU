@@ -1,14 +1,12 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import ContactoPage from '../pages/contacto'
-import FormularioPage from '../pages/formulario'
-
 
 import HomePage from '../pages/home'
 import InternalPage from '../pages/internal'
 import ReunionPage from '../pages/reuniones'
 import SoonPage from '../pages/soontm'
-import VerificacionPage from '../pages/verificacion'
+import ContactoPage from '../pages/contacto'
+import FormularioPage from '../pages/formulario'
 import HorarioPage from '../pages/horario'
 import AnalisisPage from '../pages/Analisis'
 import MenuAnalisisPage from '../pages/menuanalisis'
@@ -16,6 +14,7 @@ import AnalisisPage2 from '../pages/Analisis2'
 import AnalisisPage3 from '../pages/Analisis3'
 import AnalisisPage4 from '../pages/Analisis4'
 import AnalisisPage5 from '../pages/Analisis5'
+
 const AppRouter = () => {
   return (
     <BrowserRouter>
@@ -25,7 +24,6 @@ const AppRouter = () => {
         <Route path='/soontm' element={<SoonPage />} />
         <Route path='/reuniones' element={<ReunionPage />} />
         <Route path='/formulario' element={<FormularioPage />} />
-        <Route path='/verificacion' element={<VerificacionPage />} />
         <Route path='/contacto' element={<ContactoPage />} />
         <Route path='/horario' element={<HorarioPage />} />
         <Route path='/menuanalisis' element={<MenuAnalisisPage />} />

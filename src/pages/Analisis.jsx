@@ -8,7 +8,7 @@ import NavBar from '../components/nav_bar'
 export const AnalisisPage = () => {
   return (
     <div className='page'>
-      <h1 className='page__title'>Hamlin Hamlin and McGill</h1>
+      <h1 className='page__title'>Hamlin Hamlin & McGill</h1>
       <NavBar />
       <h2>Analisis de reunión</h2>
       <div className='anal'>
@@ -23,7 +23,7 @@ export const AnalisisPage = () => {
         </div>
         <div>
             <div className='a'>Analisis de datos</div>
-            <div className='a'>23/11/2022</div>
+            <div className='a'>23 de noviembre de 2022</div>
             <div className='a'>12 hrs. 00 mín.</div>
             <div className='a'>01 hrs. 20 mín.</div>
             <div className='a'>Datos, Planillas, Excel, Organización</div>
@@ -53,7 +53,7 @@ export const AnalisisPage = () => {
 
     <div><h5> <b>Acta reunión</b> </h5>
         <div className='textoacta'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde fugiat cupiditate fuga asperiores excepturi vero aliquam quidem dolore? Exercitationem et laudantium natus optio accusamus dolor earum ut id ea aspernatur. Impedit, fugiat nostrum ipsum fugit voluptatum enim. Possimus, magni eaque recusandae fugiat ex, modi accusamus beatae incidunt veritatis nostrum saepe harum commodi. Dignissimos explicabo dicta dolorum, aliquam perspiciatis placeat similique iure reiciendis. Perferendis iusto obcaecati quam laboriosam ullam, accusantium adipisci tempora voluptatem quasi illum totam est quibusdam quis? Dolorem, tempore.
+            Se revisan y discuten los datos de los casos atendidos durante la última semana. Se decide que estos datos serán almacenados en planillas en Excel que contengan los casos de cada semana. Cada archivo contendrá 5 hojas, correspondientes a cada día laboral, con el objetivo de mejorar la organización de los datos.
         </div>
     </div>
       <div className='boton' align= "right">

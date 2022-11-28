@@ -8,7 +8,7 @@ import NavBar from '../components/nav_bar'
 export const AnalisisPage4 = () => {
   return (
     <div className='page'>
-      <h1 className='page__title'>Hamlin Hamlin and McGill</h1>
+      <h1 className='page__title'>Hamlin Hamlin & McGill</h1>
       <NavBar />
       <h2>Analisis de reunión</h2>
       <div className='anal'>
@@ -53,7 +53,7 @@ export const AnalisisPage4 = () => {
 
     <div><h5> <b>Acta reunión</b> </h5>
         <div className='textoacta'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum sapiente culpa modi! Beatae numquam est assumenda vero sit? Quas expedita nostrum libero perspiciatis optio inventore iure fugiat, architecto nobis! Aperiam minus earum atque! Fugit accusamus voluptatibus doloribus excepturi architecto? Fuga magni cupiditate veniam velit itaque vel et ullam ea, error exercitationem adipisci maiores ipsum? Repudiandae laborum repellat temporibus, asperiores voluptas, libero excepturi iure dolorem blanditiis odit optio reiciendis consequatur in.
+            Los supervisores presentan ante los estudiantes que harán sus prácticas profesionales en la compañía, dando un resumen de las labores que realizarán a diario y respondiendo dudas. Luego, los practicantes firman sus convenios de práctica con el encargado de Recursos Humanos y se les asigna un proyecto en las áreas de "Contabilidad" o "Asesoría legal".
         </div>
     </div>
       <div className='boton' align= "right">

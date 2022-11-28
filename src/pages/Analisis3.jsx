@@ -8,7 +8,7 @@ import NavBar from '../components/nav_bar'
 export const AnalisisPage3 = () => {
   return (
     <div className='page'>
-      <h1 className='page__title'>Hamlin Hamlin and McGill</h1>
+      <h1 className='page__title'>Hamlin Hamlin & McGill</h1>
       <NavBar />
       <h2>Analisis de reunión</h2>
       <div className='anal'>
@@ -51,7 +51,7 @@ export const AnalisisPage3 = () => {
 
     <div><h5> <b>Acta reunión</b> </h5>
         <div className='textoacta'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quis, unde vel accusantium maxime, atque quod aperiam minima doloremque iure, doloribus tempore cumque sapiente facere nostrum. Illum suscipit autem inventore neque hic exercitationem eum fugiat nihil, atque, reiciendis assumenda voluptatem unde magni a quaerat, esse dicta cupiditate provident quia aliquid placeat? Cum aperiam nostrum mollitia voluptatum. Tempore vel hic molestiae, aliquam eaque alias ducimus, explicabo laboriosam sunt veniam eos perferendis voluptas culpa! Qui earum dicta incidunt dolores tempore expedita dolorem atque autem, et sapiente consequuntur ad sequi harum id perspiciatis maiores ea rerum minima nesciunt sed velit doloremque. Autem laboriosam officia suscipit ducimus, nulla harum fuga cumque voluptas maiores voluptate in sint aliquid provident at sequi et? Alias, animi quia!
+            Cada participante realiza un resumen de los proyectos en los que se encuentra trabajando, recibiendo retroalimentación para aquellos proyectos que presentan fallas. También muestran los mockups y tipos de testing que han hecho.
         </div>
     </div>
       <div className='boton' align= "right">

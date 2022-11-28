@@ -2,21 +2,21 @@ export const NavItems =[
     {
         name : 'Mi Perfil', 
         links: [
-            { title: 'Sub Menu',to: "#" },
+            { title: 'Editar perfil',to: "#" },
         ],
         open: false,
     },
     {
         name : 'Mis contactos', 
         links: [
-            { title: 'Sub Menu',to: "#" },
+            { title: 'Administrar contactos',to: "#" },
         ],
         open: false,
     },
     {
-        name : 'Reuniones', 
+        name : 'Reuniones',
         links: [
-            { title: 'Agendar reunión',to: "/horario" }, //Cambia el to para ir a donde quieras pero hay que añadirlo en el app_router
+            { title: 'Agendar reunión',to: "/horario" },
             { title: 'Reuniones pasadas',to: "/menuanalisis" },
         ],
         open: false,
@@ -24,7 +24,7 @@ export const NavItems =[
     {
         name : 'Ajustes', 
         links: [
-            { title: 'Sub Menu',to: "#" },
+            { title: 'Preferencias',to: "#" },
         ],
         open: false,
     },
