@@ -12,7 +12,7 @@ export const ContactoPage = () => {
             <h2>Su caso es importante para nosotros</h2>
             <img src={contacto} height={200} alt='imgen de contacto' /><br />
             <br />
-            <Button variant='contained' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>Llame a una sucursal</Button>
+            <Button variant='contained'>Llame a una sucursal</Button>
         </div>
     )
 }

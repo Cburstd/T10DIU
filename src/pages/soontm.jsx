@@ -12,7 +12,7 @@ export const SoonPage = () => {
       <h2>Asesorías legales</h2>
       <img src={pronto} height={200} alt='logo usm' /><br />
       <br />
-      <Button variant='contained' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>Material UI Button</Button>
+      <Button variant='contained'>Material UI Button</Button>
     </div>
   )
 }
